@@ -1,0 +1,4 @@
+#8BBCCC(light blue)
+#4C6793(dark blue)
+#5C2E7E(purple)
+#000000(black)
